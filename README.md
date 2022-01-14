@@ -6,34 +6,6 @@ Config files for my GitHub profile.
 
 # Protfolio(Master Branch)
 
-   #### [Master Branch](https://github.com/zojae031/Portfolio/tree/master)
-   - AAC ViewModel
-   - MVVM
-   - LiveData
-   - Koin
-   - dataBinding
- 
-   
-   #### [MVP Branch](https://github.com/zojae031/Portfolio/tree/mvp)
-   - MVP 패턴을 적용
-   - View와 Presenter의 1:1 대응
-   
-   # MVVM 구성도
-
-   ![Architecture](https://user-images.githubusercontent.com/31091115/67158166-ac59da80-f36f-11e9-94c5-5e892f4b44ca.png)
-
-   <hr>  
-
-   ```
-   자신의 포트폴리오로 사용하는 방법
-   
-   1. 자신의 Repository로 Fork
-   2. Json Branch안의 데이터 변경
-   3. 어플리케이션 좌측 상단 메뉴 클릭
-   4. 왼쪽 하단 돋보기 클릭
-   5. 자신의 깃허브 아이디 선택
-   ```
-
    # 프로젝트 구조
 
    #### [Repository](https://github.com/zojae031/Portfolio/tree/master/app/src/main/java/zojae031/portfolio/data)
