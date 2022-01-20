@@ -1,7 +1,7 @@
 # minjikang
 Config files for my GitHub profile.
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=MINJI%20KANG&fontSize=90)
-![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30)
+![header](https://capsule-render.vercel.app/api?color=gradient
 
 ![KKang-minji's github stats](https://github-readme-stats.vercel.app/api?username=KKang-minji&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKang-minji&layout=compact)](https://github.com/KKang-minji/github-readme-stats)
