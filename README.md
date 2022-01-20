@@ -1,6 +1,6 @@
 # minjikang
 Config files for my GitHub profile.
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=MINJI%20KANG&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=MINJI%20KANG&fontSize=90&animation=fadeIn)
 
 
 ![KKang-minji's github stats](https://github-readme-stats.vercel.app/api?username=KKang-minji&show_icons=true)
