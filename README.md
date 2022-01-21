@@ -4,7 +4,7 @@ Config files for my GitHub profile.
 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/R-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/R-3776AB?style=for-the-badge&logo=R&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 출처: https://byul91oh.tistory.com/214 [개꼬 [: 개발하는 꼬바리]]
