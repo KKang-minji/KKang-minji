@@ -1,6 +1,6 @@
 # minjikang
 Config files for my GitHub profile.
-![header](https://capsule-render.vercel.app/api?type=waving&color=f5f5dc&height=400&text=Minji%20Kang&fontColor=b76ed3&fontSize=80&animation=fadeIn&desc=빅데이터%20분석&descAlign=75&descAlignY=70&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=f5f5dc&height=400&text=Minji%20Kang&fontColor=b76ed3&fontSize=80&animation=fadeIn&desc=시행착오를%20즐기는%20주니어%20빅데이터%20분석가%20입니다.&descAlign=75&descAlignY=70&descSize=18)
 
 [![python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=3776AB)](https://github.com/KKang-minji/KKang-minji/edit/main/README.md)
 
