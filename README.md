@@ -5,7 +5,7 @@ Config files for my GitHub profile.
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/R-7D929E?style=for-the-badge&logo=R&logoColor=blue">
+  <img src="https://img.shields.io/badge/R-E6E6E6?style=for-the-badge&logo=R&logoColor=blue">
   <img src="https://img.shields.io/badge/mysql-FECC00?style=for-the-badge&logo=MYSQL&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
