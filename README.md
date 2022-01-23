@@ -11,7 +11,7 @@ Config files for my GitHub profile.
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/SAS-008FC7?style=for-the-badge&logo=SAS&logoColor=black">
-  <img src="https://img.shields.io/badge/SPSS-fcfcfc?style=for-the-badge&logo=SPSS&logoColor=dc143c">
+  <img src="https://img.shields.io/badge/SPSS-dc143c?style=for-the-badge&logo=SPSS&logoColor=white">
   <br>
 </div>
 
