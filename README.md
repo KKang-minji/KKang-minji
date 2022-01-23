@@ -8,7 +8,7 @@ Config files for my GitHub profile.
   <img src="https://img.shields.io/badge/R-E6E6E6?style=for-the-badge&logo=R&logoColor=blue">
   <img src="https://img.shields.io/badge/mysql-FECC00?style=for-the-badge&logo=MYSQL&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html&logoColor=white">
+  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <br>
 </div>
