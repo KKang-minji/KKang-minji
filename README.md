@@ -13,7 +13,7 @@ Config files for my GitHub profile.
   <br>
 </div>
   
-	<h1>EDUCATION</h1>
+<h1>EDUCATION</h1>
   ---
   <h3>2021</h3>
   > 마에스트로
