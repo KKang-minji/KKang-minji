@@ -31,7 +31,7 @@
 - SPSS in `2017.03 ~2017.06`
 
 
-<div align=center> <h2> 📚 STACKS </h2> </div>
+ <h2> 📚 STACKS </h2>
 <div align=center> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/R-E6E6E6?style=for-the-badge&logo=R&logoColor=blue">
