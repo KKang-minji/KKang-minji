@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=dda0dd&height=300&text=Minji%20Kang&fontColor=ffffff&fontSize=50&animation=fadeIn&desc=시행착오를%20즐기는%20주니어%20빅데이터%20분석가%20입니다.&descAlign=75&descAlignY=70&descSize=15&descColor=f1f1f2)
+![header](https://capsule-render.vercel.app/api?type=waving&color=dda0dd&height=300&text=Minji%20Kang&fontColor=ffffff&fontSize=50&animation=fadeIn&desc=시행착오를%20즐기는%20주니어%20빅데이터%20분석가%20입니다.&descAlign=75&descAlignY=70&descSize=15)
 
 ## ⭐Award⭐
 - 전기차 복합소재 추천 in `2021.10`  **최우수상**
