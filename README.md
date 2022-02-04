@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=f5f5dc&height=300&text=Minji%20Kang&fontColor=b76ed3&fontSize=50&animation=fadeIn&desc=시행착오를%20즐기는%20주니어%20빅데이터%20분석가%20입니다.&descAlign=75&descAlignY=70&descSize=15)
 
-<div align=center> 📚 STACKS </div>
+<div align=center> <h2> 📚 STACKS </h2> </div>
 <div align=center> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/R-E6E6E6?style=for-the-badge&logo=R&logoColor=blue">
