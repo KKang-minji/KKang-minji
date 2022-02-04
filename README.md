@@ -9,6 +9,7 @@
 - 전기차 복합소재 추천 in `2021.10`
 - 포켓몬 캐릭터 전력 분석 및 시각화 in `2021.07`
 - YouTube Trend 분석 및 긍/부정 모델 구축 in `2021.06`
+- https://github.com/KKang-minji/python-2021/tree/main/%EC%9C%A0%ED%8A%9C%EB%B8%8C%20%EB%B6%84%EC%84%9D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8
 - 온통대전 제도 개선 방안 제시 in `2021.05`
 - 유방암 효율적인 예방 방법 in `2020.12` 
 - 대전광역시 거주지 분석 in `2020.12`
