@@ -21,8 +21,16 @@
 - `Mysql` `html`
 
 ## Experience 🏫
-- 실무 프로젝트 기반 빅데이터 전략 마에스트로 과정 in  `2021.04 ~2021.10`
+- 실무 프로젝트 기반 빅데이터 전략 마에스트로 과정 in  `2021.04 ~ 2021.10`
 
+## Basic
+- HTML/CSS in `2021.12`
+- Qgis in `2021.04`
+- Machine Learning/Deep Learning in `2020.10 ~ 2021.10`
+- Python in `2021.06 ~`
+- SAS in `2020.09 ~ 2020.12`
+- R in `2020.03 ~ 2021.10`
+- SPSS in `2017.03 ~2017.06`
 
 
 <div align=center> <h2> 📚 STACKS </h2> </div>
