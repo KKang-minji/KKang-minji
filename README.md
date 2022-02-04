@@ -15,7 +15,7 @@
 </div>
 
 
-<h1>EDUCATION</h1>
+## <h1>EDUCATION</h1>
 <h2>2021</h2>
 > 마에스트로
 > 마에스트로
