@@ -30,9 +30,9 @@
 - 마케팅 조사 -공유경제🤝( 카카오서비스 이용의도) in `2017.12` 
 
 ## Studied
-- 데이터 분석, ML, DL fundamental  `R, Python` 
+- 데이터 분석, ML, DL fundamental  `R` `Python` 
 - 감성분석 `R` 
-- Mysql, html
+- `Mysql` `html`
 
 ## Experience 🏫
 - 실무 프로젝트 기반 빅데이터 전략 마에스트로 과정 in  `2021.04 ~2021.10`
