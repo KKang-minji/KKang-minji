@@ -32,7 +32,7 @@
 
 
  <h2> 📚 STACKS </h2>
-<div align=center> 
+
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/R-E6E6E6?style=for-the-badge&logo=R&logoColor=blue">
   <img src="https://img.shields.io/badge/mysql-FECC00?style=for-the-badge&logo=MYSQL&logoColor=white">
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/SAS-008FC7?style=for-the-badge&logo=SAS&logoColor=black">
   <img src="https://img.shields.io/badge/SPSS-dc143c?style=for-the-badge&logo=SPSS&logoColor=white">
   <br>
-</div>
+
 
 
 
