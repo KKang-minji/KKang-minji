@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=f5f5dc&height=200&text=Minji%20Kang&fontColor=b76ed3&fontSize=50&animation=fadeIn&desc=시행착오를%20즐기는%20주니어%20빅데이터%20분석가%20입니다.&descAlign=75&descAlignY=70&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=f5f5dc&height=300&text=Minji%20Kang&fontColor=b76ed3&fontSize=50&animation=fadeIn&desc=시행착오를%20즐기는%20주니어%20빅데이터%20분석가%20입니다.&descAlign=75&descAlignY=50&descSize=18)
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
