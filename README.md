@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=dda0dd&height=300&text=Minji%20Kang&fontColor=ffffff&fontSize=50&animation=fadeIn&desc=시행착오를%20즐기는%20주니어%20빅데이터%20분석가%20입니다.&descAlign=75&descAlignY=70&descSize=15)
 
 ## ⭐Award⭐
-- 전기차 복합소재 추천 in `2021.10`  **최우수상**
+- [전기차 복합소재 추천](https://github.com/KKang-minji/python-2021/tree/main/%5B3%EC%B0%A8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5D%20%EB%B3%B5%ED%95%A9%EC%86%8C%EC%9E%AC%20%EC%B6%94%EC%B2%9C) in `2021.10`  **최우수상**
 - 대전시 교통사고 위험지역 100개소 도출 in `2021.04`  **입선**
 - 융합 캡스톤디자인 아이디어 공모전 in `2017.12`  **우수상**
 
