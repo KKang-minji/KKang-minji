@@ -27,4 +27,7 @@
 ![KKang-minji's github stats](https://github-readme-stats.vercel.app/api?username=KKang-minji&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKang-minji&layout=compact)](https://github.com/KKang-minji/github-readme-stats)
 
+
+<h1>EDUCATION</h1>
+<h2>2021</h2>
 실무 프로젝트 기반 빅데이터 전략 마에스트로 과정 in  `2021.04 ~2021.10`
