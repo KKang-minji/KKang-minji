@@ -22,7 +22,7 @@
 
 ## Basic ✏️
 - HTML/CSS in `2021.12`
-- Qgis in `2021.04`
+- QGIS in `2021.04`
 - Machine Learning/Deep Learning in `2020.10 ~ 2021.10`
 - Python in `2021.03 ~`
 - Emotional analysis in `2021.03 ~ 2021.06`
