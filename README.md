@@ -2,7 +2,7 @@
 
 ## ⭐Award⭐
 - [전기차 복합소재 추천](https://github.com/KKang-minji/python-2021/tree/main/%5B3%EC%B0%A8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5D%20%EB%B3%B5%ED%95%A9%EC%86%8C%EC%9E%AC%20%EC%B6%94%EC%B2%9C) in `2021.10`  **최우수상**
-- 대전시 교통사고 위험지역 100개소 도출 in `2021.04`  **입선**
+- [대전시 교통사고 위험지역 100개소 도출](https://github.com/KKang-minji/COMPAS/tree/main/Dangerous%20areas%20for%20traffic%20accidents) in `2021.04`  **입선**
 - 융합 캡스톤디자인 아이디어 공모전 in `2017.12`  **우수상**
 
 ## Projects 📈
