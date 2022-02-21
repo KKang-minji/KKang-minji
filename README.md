@@ -12,7 +12,7 @@
 - [온통대전 제도 개선 방안 제시](https://github.com/KKang-minji/python-2021/tree/main/%5B3%EC%B0%A8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5D%20%EB%B3%B5%ED%95%A9%EC%86%8C%EC%9E%AC%20%EC%B6%94%EC%B2%9C) in `2021.05`
 - [유방암 효율적인 예방 방법](https://github.com/KKang-minji/python-2021/tree/main/%5B3%EC%B0%A8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5D%20%EB%B3%B5%ED%95%A9%EC%86%8C%EC%9E%AC%20%EC%B6%94%EC%B2%9C) in `2020.12` 
 - [대전광역시 거주지 분석](https://github.com/KKang-minji/python-2021/tree/main/%5B3%EC%B0%A8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5D%20%EB%B3%B5%ED%95%A9%EC%86%8C%EC%9E%AC%20%EC%B6%94%EC%B2%9C) in `2020.12`
-- [대전시 빅데이터 아이디어 공모전](https://github.com/KKang-minji/python-2021/tree/main/%5B3%EC%B0%A8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5D%20%EB%B3%B5%ED%95%A9%EC%86%8C%EC%9E%AC%20%EC%B6%94%EC%B2%9C) in `2020.05`
+- [대전시 빅데이터 아이디어 공모전](https://github.com/KKang-minji/Project/tree/main/%EB%8C%80%EC%A0%84%EC%8B%9C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%20%EA%B3%B5%EB%AA%A8%EC%A0%84) in `2020.05`
 - 마케팅 조사 -공유경제🤝( 카카오서비스 이용의도) **Report** in `2017.12` 
 
 
