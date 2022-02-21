@@ -9,7 +9,7 @@
 - [전기차 복합소재 추천](https://github.com/KKang-minji/python-2021/tree/main/%5B3%EC%B0%A8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5D%20%EB%B3%B5%ED%95%A9%EC%86%8C%EC%9E%AC%20%EC%B6%94%EC%B2%9C) in `2021.10`
 - [포켓몬 캐릭터 전력 분석 및 시각화](https://github.com/KKang-minji/python-2021/tree/main/%ED%8F%AC%EC%BC%93%EB%AA%AC%20%EB%B6%84%EC%84%9D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) in `2021.07`
 - [YouTube Trend 분석 및 긍/부정 모델 구축](https://github.com/KKang-minji/python-2021/tree/main/%EC%9C%A0%ED%8A%9C%EB%B8%8C%20%EB%B6%84%EC%84%9D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) in `2021.06`
-- [온통대전 제도 개선 방안 제시](https://github.com/KKang-minji/python-2021/tree/main/%5B3%EC%B0%A8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5D%20%EB%B3%B5%ED%95%A9%EC%86%8C%EC%9E%AC%20%EC%B6%94%EC%B2%9C) in `2021.05`
+- [온통대전 제도 개선 방안 제시](https://github.com/KKang-minji/Project/tree/main/%EC%98%A8%ED%86%B5%EB%8C%80%EC%A0%84) in `2021.05`
 - [유방암 효율적인 예방 방법](https://github.com/KKang-minji/python-2021/tree/main/%5B3%EC%B0%A8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5D%20%EB%B3%B5%ED%95%A9%EC%86%8C%EC%9E%AC%20%EC%B6%94%EC%B2%9C) in `2020.12` 
 - [대전광역시 거주지 분석](https://github.com/KKang-minji/python-2021/tree/main/%5B3%EC%B0%A8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%5D%20%EB%B3%B5%ED%95%A9%EC%86%8C%EC%9E%AC%20%EC%B6%94%EC%B2%9C) in `2020.12`
 - [대전시 빅데이터 아이디어 공모전](https://github.com/KKang-minji/Project/tree/main/%EB%8C%80%EC%A0%84%EC%8B%9C%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%20%EA%B3%B5%EB%AA%A8%EC%A0%84) in `2020.05`
